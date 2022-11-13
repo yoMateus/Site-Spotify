@@ -45,7 +45,7 @@ a {
     flex-direction: row;
     
 }
-#navbaritems :hover {
+#navbaritems:hover {
     text-decoration: underline;
 }
 #navbaritems li {
@@ -71,7 +71,6 @@ a {
 .ben10 h1 {
     text-align: right;
     padding: 70px;
-    
     color: white;
     
 }
@@ -79,10 +78,10 @@ a {
     text-align: right;
     color: white;
 }
-#help li{ color: white;
+#help li{ 
+    color: white;
     padding-top: 5%;
     
-
 }
 
 #help :hover{
